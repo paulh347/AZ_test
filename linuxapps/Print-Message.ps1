@@ -1,4 +1,4 @@
 workflow Print-Message
 {
-    Write-output "Testing Source Control"
+    Write-Output "Testing Source Control"
 }
